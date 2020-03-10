@@ -2,27 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e38717ba-764d-41d9-a009-e854e6f2afb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/d4ef9197-e665-457d-9f31-8d1d97dcfc9a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d4ef9197-e665-457d-9f31-8d1d97dcfc9a.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f869bab0-41d2-433a-aeae-4148b626eaa1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f869bab0-41d2-433a-aeae-4148b626eaa1/storage_v2/_src_/schema/choice.oV3drg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f869bab0-41d2-433a-aeae-4148b626eaa1/storage_v2/_src_/schema/choice.oV3drg.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/importer/importer/import.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/importer/importer/import.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/importer/importer/importer.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/importer/importer/importer.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/importer/importer/mapper/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/importer/importer/mapper/cache.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/importer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/importer/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/cache/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/cache/cache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/cache/model/choice.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/cache/model/choice.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/cache/set.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/cache/set.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/config/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/config/cache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/config/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/config/db.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/db/choice.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/db/choice.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/db/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/db/db.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/db/model/choice.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/db/model/choice.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
