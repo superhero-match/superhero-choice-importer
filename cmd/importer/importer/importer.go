@@ -14,9 +14,9 @@
 package importer
 
 import (
-	"github.com/superhero-choice-importer/internal/cache"
-	"github.com/superhero-choice-importer/internal/config"
-	"github.com/superhero-choice-importer/internal/db"
+	"github.com/superhero-match/superhero-choice-importer/internal/cache"
+	"github.com/superhero-match/superhero-choice-importer/internal/config"
+	"github.com/superhero-match/superhero-choice-importer/internal/db"
 )
 
 // Importer holds all the data relevant.

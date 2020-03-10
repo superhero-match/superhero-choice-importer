@@ -14,8 +14,8 @@
 package mapper
 
 import (
-	cache "github.com/superhero-choice-importer/internal/cache/model"
-	"github.com/superhero-choice-importer/internal/db/model"
+	cache "github.com/superhero-match/superhero-choice-importer/internal/cache/model"
+	"github.com/superhero-match/superhero-choice-importer/internal/db/model"
 )
 
 // MapDBChoicesToCache maps DB Choice models to Cache Choice models.

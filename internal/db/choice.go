@@ -14,7 +14,7 @@
 package db
 
 import (
-	"github.com/superhero-choice-importer/internal/db/model"
+	"github.com/superhero-match/superhero-choice-importer/internal/db/model"
 )
 
 // GetChoices fetches a batch of choice.

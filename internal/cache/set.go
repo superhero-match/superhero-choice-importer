@@ -15,7 +15,7 @@ package cache
 
 import (
 	"fmt"
-	"github.com/superhero-choice-importer/internal/cache/model"
+	"github.com/superhero-match/superhero-choice-importer/internal/cache/model"
 	"time"
 )
 

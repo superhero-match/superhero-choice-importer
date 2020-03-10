@@ -14,7 +14,7 @@
 package importer
 
 import (
-	"github.com/superhero-choice-importer/cmd/importer/importer/mapper"
+	"github.com/superhero-match/superhero-choice-importer/cmd/importer/importer/mapper"
 )
 
 // Import import Superheros data from DB to Cache.
