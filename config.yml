@@ -1,13 +1,13 @@
 db:
-  host: 'localhost'
+  host: '192.168.0.64'
   port: 3306
-  user: 'root'
-  password: 'Kolian18**'
+  user: 'dev'
+  password: 'Awesome85**'
   name: 'choice'
   limit: 50
 
 cache:
-  address: '192.168.178.17'
+  address: '192.168.0.64'
   port: ':6379'
   password: 'Awesome85**'
   db: 0
